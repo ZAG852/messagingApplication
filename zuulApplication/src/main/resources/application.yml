@@ -1,0 +1,4 @@
+zuul:
+  prefix: /api
+
+    
